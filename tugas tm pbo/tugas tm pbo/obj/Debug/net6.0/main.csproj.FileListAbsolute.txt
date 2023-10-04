@@ -1,0 +1,14 @@
+E:\Semester 3\Pemrograman Berorientasi Objek\tugas tm pbo\tugas tm pbo\obj\Debug\net6.0\main.GeneratedMSBuildEditorConfig.editorconfig
+E:\Semester 3\Pemrograman Berorientasi Objek\tugas tm pbo\tugas tm pbo\obj\Debug\net6.0\main.AssemblyInfoInputs.cache
+E:\Semester 3\Pemrograman Berorientasi Objek\tugas tm pbo\tugas tm pbo\obj\Debug\net6.0\main.AssemblyInfo.cs
+E:\Semester 3\Pemrograman Berorientasi Objek\tugas tm pbo\tugas tm pbo\obj\Debug\net6.0\main.csproj.CoreCompileInputs.cache
+E:\Semester 3\Pemrograman Berorientasi Objek\tugas tm pbo\tugas tm pbo\bin\Debug\net6.0\main.exe
+E:\Semester 3\Pemrograman Berorientasi Objek\tugas tm pbo\tugas tm pbo\bin\Debug\net6.0\main.deps.json
+E:\Semester 3\Pemrograman Berorientasi Objek\tugas tm pbo\tugas tm pbo\bin\Debug\net6.0\main.runtimeconfig.json
+E:\Semester 3\Pemrograman Berorientasi Objek\tugas tm pbo\tugas tm pbo\bin\Debug\net6.0\main.dll
+E:\Semester 3\Pemrograman Berorientasi Objek\tugas tm pbo\tugas tm pbo\bin\Debug\net6.0\main.pdb
+E:\Semester 3\Pemrograman Berorientasi Objek\tugas tm pbo\tugas tm pbo\obj\Debug\net6.0\main.dll
+E:\Semester 3\Pemrograman Berorientasi Objek\tugas tm pbo\tugas tm pbo\obj\Debug\net6.0\refint\main.dll
+E:\Semester 3\Pemrograman Berorientasi Objek\tugas tm pbo\tugas tm pbo\obj\Debug\net6.0\main.pdb
+E:\Semester 3\Pemrograman Berorientasi Objek\tugas tm pbo\tugas tm pbo\obj\Debug\net6.0\main.genruntimeconfig.cache
+E:\Semester 3\Pemrograman Berorientasi Objek\tugas tm pbo\tugas tm pbo\obj\Debug\net6.0\ref\main.dll
